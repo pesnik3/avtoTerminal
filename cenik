@@ -1,0 +1,29 @@
+tramak
+ladja
+vagoni/ricanje
+kontrola/kombi
+tramak dnevni = a
+tramak nočni /nedeljski = b
+tramak nedeljski nočni/praznik = c
+tramak praznik nočna = č
+ladja dnevna = d
+ladja nočna / nedeljska = e
+ladja nedelja nočna / praznik = f
+ladja praznična nočna = g
+funkcija dnevna = h
+funkcija nočna / nedeljska = i
+funkcija nedelja nočna / praznik = j
+funkcija praznična nočna = k
+a == 6,5 
+b == 8   
+c == 9,5
+č == 11 
+d == 7
+e == 8,5
+f == 10 
+g == 11,5
+h == 8
+i == 9,5
+j == 11
+k == 12,5
+to so tarife za sodelovanje preko sp-ja
